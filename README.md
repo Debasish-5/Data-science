@@ -36,5 +36,15 @@ The dataset includes:
 2. **install the Librarires**
    ```bash
    pip install pandas matplotlib seaborn wordcloud
+3. ** Analysis Images**
+   ![Screenshot (163)](https://github.com/user-attachments/assets/82e2ac1b-b2d8-49ab-a2a2-8ad3a5c292c6)
+   ![Screenshot (168)](https://github.com/user-attachments/assets/5d9200ed-dbdb-470f-b55b-ce41fe6df602)
+   ![Screenshot (184)](https://github.com/user-attachments/assets/11df5b56-1aaa-4402-8513-27cc001e258b)
+   ![Screenshot (185)](https://github.com/user-attachments/assets/55cc9121-9b0b-4416-866a-63a6a7e37bee)
+
+
+
+
+   
 
 
